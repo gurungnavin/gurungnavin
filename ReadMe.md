@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hey there! I'm a frontend developer working in a company, with a strong passion for full-stack web development and mobile app development. 🚀<br><br>🔭 I’m currently working on<br>Building modern, responsive web applications<br>Improving my backend skills to become a full-stack developer<br>👯 I’m looking to collaborate on<br>Web and mobile app projects<br>Open-source contributions<br>🤝 I’m looking for help with<br>Deepening my backend knowledge (Node.js, databases, API security)<br>Mobile app development (React Native, Flutter)<br>🌱 I’m currently learning<br>Full-stack development (MERN stack)<br>Mobile app development (React Native)<br>AWS & cloud services for better scalability<br>💬 Ask me about<br>Frontend development (React, JavaScript, UI/UX)<br>Optimizing web performance<br>Bridging frontend and backend seamlessly<br>⚡ Fun fact<br>I believe turning code flow into animations makes learning easier and fun! 🎨🚀
+👋 Hi! I'm a frontend developer passionate about full-stack and mobile app development. 🚀
+🔭 Currently working on building modern web apps and improving backend skills to become a full-stack dev.
+👯 Looking to collaborate on web/mobile projects and open-source contributions.
+🤝 Seeking help with backend (Node.js, databases, API security) and mobile app development (React Native, Flutter).
+🌱 Learning MERN stack, React Native, and AWS for better scalability.
+💬 Ask me about frontend dev (React, JavaScript, UI/UX) and optimizing web performance.
+⚡ Fun fact: I love turning code flow into animations to make learning fun! 🎨🚀
 
 
 # 💻 Tech Stack:
