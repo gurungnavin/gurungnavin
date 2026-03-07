@@ -15,14 +15,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=gurungnavin&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=gurungnavin&show_icons=true&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=gurungnavin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=gurungnavin&icon=9&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gurungnavin&layout=compact&theme=tokyonight&hide_border=true)
