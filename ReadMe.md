@@ -1,4 +1,4 @@
-💫 Frontend developer with experience in React | Learning MERN, React Native & AWS | Interested in contributing to web & mobile projects
+💫 React Frontend Developer | Learning MERN, React Native & AWS | Open to web and mobile projects
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
